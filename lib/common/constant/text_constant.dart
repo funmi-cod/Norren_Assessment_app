@@ -28,7 +28,6 @@ class TextLiterals {
   static const String minWithdrawal = 'Minimium Withdrawal';
   static const String norrenProducts = 'Norren products';
   static const String features = 'Features';
-  static const String hi = 'Hi';
   static const String currency = 'Currency';
   static const String details = 'Details';
   static const String subDetails = 'Sub Product Details';

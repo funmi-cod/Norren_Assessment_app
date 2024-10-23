@@ -98,7 +98,7 @@ class _ProductsScreenState extends State<ProductsScreen> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: AppColors.primaryYellow,
-        title: Styles.bold("${TextLiterals.hi}, "),
+        title: Styles.bold(TextLiterals.appName),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
